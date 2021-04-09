@@ -4,7 +4,7 @@ Tags: YOOtheme, YOOtheme Pro, Page Builder
 Requires at least: 5.4
 Tested up to: 5.7
 Requires PHP: 7.3
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GNU General Public License version 3
 License URI: https://gnu.org/licenses/gpl-3.0
 
@@ -28,10 +28,20 @@ This plugin adds the following elements to the element library of the YOOtheme P
 4. Access the YOOtheme Pro Page Builder, the custom elements should now be available. You can select which elements should or should not be loaded in YOOtheme Pro at *Settings > Herzog Dupont*.
 
 == Screenshots ==
-1. https://herzog-dupont.de/images/tutorials/tutorial-herzogdupont-1.jpg
-2. https://herzog-dupont.de/images/tutorials/tutorial-herzogdupont-2.jpg
+1. Herzog Dupont custom elements in the element library
+2. Herzog Dupont plugin settings
+3. Toggle Element
+4. Progress Element
+5. Timeline Element
+6. Counter Element
+7. Flipcard Element
+8. Image Comparison Element
 
 == Changelog ==
+
+= 1.1.0 =
+
+* added flip mode option to flipcard element
 
 = 1.0.0 =
 

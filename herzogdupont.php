@@ -12,7 +12,7 @@
  * Plugin Name:       Herzog Dupont
  * Plugin URI:        https://herzog-dupont.de/yootheme-pro-custom-elements
  * Description:       A plugin for YOOtheme Pro which adds more elements to the page builder.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Requires at least: 5.4
  * Requires PHP:      7.3
  * Author:            Thomas Weidlich
@@ -27,7 +27,7 @@ if ( !defined( 'WPINC' ) )
 	die;
 
 // Currently plugin version.
-define( 'HERZOGDUPONT_VERSION', '1.0.0' );
+define( 'HERZOGDUPONT_VERSION', '1.1.0' );
 
 // The code that runs during plugin activation.
 function activate_herzogdupont() {
