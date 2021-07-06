@@ -1,5 +1,7 @@
 <?php
 
+/* Herzog Dupont Copyright (C) 2021 Thomas Weidlich GNU GPL v3 */
+
 use YOOtheme\Config;
 
 class SettingsListener
@@ -20,6 +22,12 @@ class SettingsListener
                 'hd.elements.hd-flipcard' => [
                     'type' => 'checkbox',
                     'label' => 'Flipcard element',
+                    'default' => true,
+                    'text' => 'Add to the element library',
+                ],
+                'hd.elements.hd-slideshow-grid' => [
+                    'type' => 'checkbox',
+                    'label' => 'Slideshow Grid element',
                     'default' => true,
                     'text' => 'Add to the element library',
                 ],

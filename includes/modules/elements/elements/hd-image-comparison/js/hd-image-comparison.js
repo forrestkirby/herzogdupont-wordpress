@@ -1,3 +1,5 @@
+/* Herzog Dupont Copyright (C) 2020–2021 Thomas Weidlich GNU GPL v3 */
+
 class hdImgComp {
 
 	constructor(el) {

@@ -1,14 +1,6 @@
 <?php
 
-/**
- * Herzog Dupont
- *
- * @package           Herzog Dupont
- * @author            Thomas Weidlich https://herzog-dupont.de
- * @copyright         Copyright (C) Thomas Weidlich
- * @license           GNU General Public License version 3, see LICENSE.txt
- *
- */
+/* Herzog Dupont Copyright (C) 2021 Thomas Weidlich GNU GPL v3 */
 
 // If this file is not called by WordPress, die.
 if ( !defined( 'WPINC' ) )
